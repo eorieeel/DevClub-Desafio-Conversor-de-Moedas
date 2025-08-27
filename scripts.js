@@ -47,10 +47,7 @@ function convertValues(){
             currency: "BRL"
         }).format(inputCurrencyValue)
 
-
-        // dolar para outras moedas
 }
-
 
 function changeCurrency(){
     const currencyName = document.getElementById("currency-name")
